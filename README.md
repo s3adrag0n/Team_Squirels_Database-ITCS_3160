@@ -1,5 +1,8 @@
 Team Squirrels
+
 Jason Fomuke, Kaha Vang, Grace Jones, David Acosta, Eunique Williams
+
+
 
 Outline:
 
