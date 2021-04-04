@@ -1,6 +1,6 @@
 Team Squirrels
 
-Jason Fomuke, Kaha Vang, Grace Jones, David Acosta, Eunique Williams
+Jason Fomuke, Kaha Vang, Grace Jones, David Cardenas Acosta, Eunique Williams
 
 _______________________________________________________________________________
 
