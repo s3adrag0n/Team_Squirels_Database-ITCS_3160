@@ -12,8 +12,7 @@ Use Case for Rating System - COMPLETED
 
 Business Rules - COMPLETED
 
-EERD (full database) - COMPLETED
-https://github.com/jfomuke/Team_Squirels_Database-ITCS_3160/blob/main/Deliverable_3/EERD_3.png
+EERD (full database) - COMPLETED - https://github.com/jfomuke/Team_Squirels_Database-ITCS_3160/blob/main/Deliverable_3/EERD_3.png
 
 MySQL Queries
 
@@ -21,8 +20,7 @@ Stored Procedure
 
 Web/App Implementation (Optional) or Description of Future Work
 
-MySQL dump - COMPLETED
-https://github.com/jfomuke/Team_Squirels_Database-ITCS_3160/tree/main/Deliverable_3/DumpFolder
+MySQL dump - COMPLETED - https://github.com/jfomuke/Team_Squirels_Database-ITCS_3160/tree/main/Deliverable_3/DumpFolder
 
 Project Video
 
