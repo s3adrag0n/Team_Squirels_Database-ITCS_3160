@@ -6,13 +6,13 @@ _______________________________________________________________________________
 
 Outline:
 
-Introduction (Team, Project Description)
+Introduction (Team, Project Description) - COMPLETED
 
-Use Case for Rating System
+Use Case for Rating System - COMPLETED
 
-Business Rules
+Business Rules - COMPLETED
 
-EERD (full database)
+EERD (full database) - COMPLETED
 
 MySQL Queries
 
